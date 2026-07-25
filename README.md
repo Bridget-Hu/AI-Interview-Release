@@ -14,7 +14,7 @@
     <a href="https://github.com/SsuJojo/AI-Interview-Release/stargazers">
       <img src="https://img.shields.io/github/stars/SsuJojo/AI-Interview-Release?style=for-the-badge&label=Stars" alt="Stars" />
     </a>
-    <a href="https://aiiv.zdzd.xyz">
+    <a href="https://aiiv.zszs.uno">
       <img src="https://img.shields.io/badge/Online-Demo-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Online Demo" />
     </a>
   </p>
@@ -23,7 +23,7 @@
     <a href="https://github.com/SsuJojo/AI-Interview-Release/releases/latest">
       <img src="https://img.shields.io/badge/Desktop-Windows%20%7C%20macOS%20%7C%20Linux-0EA5E9?style=for-the-badge&logo=electron&logoColor=white" alt="Desktop" />
     </a>
-    <a href="https://aiiv.zdzd.xyz">
+    <a href="https://aiiv.zszs.uno">
       <img src="https://img.shields.io/badge/Mobile-Android%20%7C%20iPhone-F97316?style=for-the-badge&logo=android&logoColor=white" alt="Mobile" />
     </a>
     <a href="https://github.com/SsuJojo/AI-Interview-Release/commits/main">
@@ -43,7 +43,7 @@ AI Interview 是一个面向求职训练、课程演示与日常练习的 AI 面
 
 ## 在线体验
 
-- DEMO：<https://aiiv.zdzd.xyz>
+- DEMO：<https://aiiv.zszs.uno>
 
 如果你想立刻开始使用，推荐直接打开在线 DEMO。
 
@@ -66,7 +66,7 @@ AI Interview 是一个面向求职训练、课程演示与日常练习的 AI 面
 
 无需下载，打开即可使用：
 
-- 在线地址：<https://aiiv.zdzd.xyz>
+- 在线地址：<https://aiiv.zszs.uno>
 
 适合以下场景：
 
@@ -96,7 +96,7 @@ AI Interview 是一个面向求职训练、课程演示与日常练习的 AI 面
 
 手机端推荐直接访问：
 
-- <https://aiiv.zdzd.xyz>
+- <https://aiiv.zszs.uno>
 
 ## 功能亮点
 
@@ -143,7 +143,7 @@ AI Interview 是一个面向求职训练、课程演示与日常练习的 AI 面
 
 ## 快速入口
 
-- 在线 DEMO：<https://aiiv.zdzd.xyz>
+- 在线 DEMO：<https://aiiv.zszs.uno>
 - 最新版本下载：<https://github.com/SsuJojo/AI-Interview-Release/releases/latest>
 - Release 列表：<https://github.com/SsuJojo/AI-Interview-Release/releases>
 
